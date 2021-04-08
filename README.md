@@ -4,9 +4,9 @@ A Differential Drive Mobile Robot that can perform SLAM (Simultaneous Localizati
 **NOTE: Scroll Down to view the Photo Gallery of the Robot and its functionalities.**
 
 ## Demonstration Videos (YouTube):
-1) Navigation Simulation on Gazebo: https://youtu.be/JQFO9v_3PpE
-2) Performing SLAM with PEPPER: https://youtu.be/AsfRXxU7h94
-3) Autonomous Navigation Demonstration: https://youtu.be/RHS6B5DbNY4
+1) Navigation Simulation on Gazebo: https://youtu.be/2HtDyXgBt3Q
+2) Performing SLAM with PEPPER: https://youtu.be/IZ3J-5dkemA
+3) Autonomous Navigation Demonstration: https://youtu.be/rFq5Og8qY-U
 
 Full Playlist (including old videos): https://youtube.com/playlist?list=PL44ElmNkyTvBqNAVxaPmKnhxJGcgDSsyj
 
